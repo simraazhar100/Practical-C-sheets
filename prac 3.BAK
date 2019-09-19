@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a = 4;
+char b = 's'
+float d ="2.3";
+clrscr();
+printf("Int value is = %d",a);
+printf("\n\t Char value is = %c",b);
+printf("\n\t\t Float value is = %f",d);
+getch();
+}

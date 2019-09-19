@@ -1,0 +1,20 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int a;
+char b;
+float d;
+clrscr();
+printf("\tEnter the value integer is");
+scanf ("%d",&a);
+printf("\n\tEnter the value character is");
+scanf ("%c",&b);
+printf("\n\tEnter the value float is");
+scanf ("\n\t%f",&d);
+printf("\n\t ***INTEGER, CHARACTER AND FLOAT VALUES***");
+printf("\n\t int value is = %d",a);
+printf("\n\t Char value is = %c",b);
+printf("\n\t float values is = %f",d);
+getch();
+}
